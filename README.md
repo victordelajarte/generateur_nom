@@ -12,3 +12,5 @@ Modifier la variable "pattern" pour obtenir des résultats différents :
 
 Pattern actuel : "cvcwcv"
 Résultat possible : "nivaaxy", "tezeeri", "kubyycy"
+
+Un second paramètre (useFrequence) permet d'utiliser plus souvent des lettres courantes dans l'alphabet.
